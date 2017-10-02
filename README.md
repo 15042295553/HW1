@@ -31,4 +31,16 @@ git add index.css
 
 
 
+git remote
+git clone https://github.com/15042295553/HW1.git
+cd HW1
+git remote
+git remote -v
+git fetch origin
+git pull origin
+git push origin master
+
+```
+
+
 
