@@ -20,6 +20,15 @@ git push -u origin master
 git config --global user.name "Chunze-Liu"
 git config --global user.email "15042295553@163.com"
 ```
+create a readme.txt index.html index.css
+```bash
+git add readme.txt
+git commit
+git add readme.txt
+git log
+touch index.css
+git add index.css
+
 
 
 
